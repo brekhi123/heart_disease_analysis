@@ -91,7 +91,7 @@ The analysis uses the `heart.csv` dataset, located in the `data/` directory. It 
 
 ---
 
-## 🔬 Key Steps in the Notebook
+## Key Steps in the Notebook
 
 1. **Loading Data**
    Read `heart.csv` into a DataFrame.
